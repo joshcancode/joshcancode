@@ -17,5 +17,9 @@
 </p>
 
 <p align="center">
+  <a href="https://discord.gg/EF2JKAy"><img src="https://shields.io/discord/459014303224168449?label=discord&logo=discord&color=7289da" /></a>
+</p>
+
+<p align="center">
   Add me on Discord for funny cate images and if you let me spam you enough then maybe I'll invite you Luna#8519
 </p>
