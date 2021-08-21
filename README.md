@@ -18,11 +18,7 @@
 
 <p align="center">
   <a href="https://github.com/Visual9999">
-    <img src="https://discord.c99.nl/widget/theme-1/688329382011600917.png" alt="armfxl"/>
-  </a>
-  
-  <a href="https://github.com/Visual9999">
-    <img src="https://discord.c99.nl/widget/theme-1/688329382011600917.png" alt="armfxl"/>
+    <img src="https://discord.c99.nl/widget/theme-1/237025099062968320.png" alt="armfxl"/>
   </a>
 </p>
 
