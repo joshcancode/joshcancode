@@ -1,9 +1,10 @@
 <p align="center">
   <img src="nyan-ming.gif" alt="lol" />
-  <p 
-    hehe funny cate
-  </p
 </p>
+
+<p align="center">
+  hehe funny cate
+</p
 
 ---
 
