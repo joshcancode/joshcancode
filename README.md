@@ -10,7 +10,7 @@
 
 <p align="center">
   I am an intermediate reverse engineer, game modder, software developer and web developer. 
-  My game modding work is private, sorry! It's our there on a random private forum somewhere, you might be able to find it eventually
+  My game modding work is private, sorry! It's out there on a random private forum somewhere, you might be able to find it eventually
 </p>
 
 <p align="center">
