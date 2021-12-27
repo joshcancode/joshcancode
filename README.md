@@ -4,7 +4,7 @@
 
 <p align="center">
   hehe funny cate
-</p
+</p>
 
 ---
 
