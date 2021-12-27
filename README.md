@@ -9,7 +9,8 @@
 ---
 
 <p align="center">
-  I am an intermediate reverse engineer, game modder, software developer and web developer. 
+  I am an intermediate reverse engineer, game modder, software developer and web developer.
+  <br>
   My game modding work is private, sorry! It's out there on a random private forum somewhere, you might be able to find it eventually
 </p>
 
@@ -18,6 +19,7 @@
 </p>
 
 <p align="center">
-  My site is <a href="joshcantco.de">https://joshcantco.de/
+  My site is <a href="joshcantco.de">https://joshcantco.de/</a>
+  <br>
   Send me funny cat pics on Discord please
 </p>
