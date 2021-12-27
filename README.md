@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  My site is <a href="https://joshcantco.de/ target="_blank"">https://joshcantco.de/</a>
+  My site is <a href="https://joshcantco.de/" target="_blank">https://joshcantco.de/</a>
   <br>
   Send me funny cat pics on Discord please
 </p>
